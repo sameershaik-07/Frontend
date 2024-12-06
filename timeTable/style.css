@@ -1,0 +1,103 @@
+body {
+    background-color: #f7f7f7;
+    margin: 20px;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    text-align: center;
+}
+
+thead {
+    background-color: #0078D4;
+    color: white;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+td:hover {
+    color: white; 
+}
+
+.pspc {
+    background-color: #ff9999; 
+}
+
+.pspc:hover {
+    background-color: #cc0000; 
+}
+
+.beee {
+    background-color: #99ccff;
+}
+
+.beee:hover {
+    background-color: #004080;
+}
+
+.cla {
+    background-color: #ffff99; 
+}
+
+.cla:hover {
+    background-color: #ffcc00; 
+}
+
+.elcsl {
+    background-color: #ccffcc; 
+}
+
+.elcsl:hover {
+    background-color: #009900; 
+}
+
+.egcdl {
+    background-color: #ffccff; 
+}
+
+.egcdl:hover {
+    background-color: #cc0099;
+}
+
+.egcd {
+    background-color: #c2d6d6; 
+}
+
+.egcd:hover {
+    background-color: #004d4d;
+}
+
+.pspcl {
+    background-color: #ffb3b3; 
+}
+
+.pspcl:hover {
+    background-color: #cc3300; 
+}
+
+.ic {
+    background-color: #d9b3ff; 
+}
+
+.ic:hover {
+    background-color: #660099; 
+}
+
+.beeel {
+    background-color: #cceeff; 
+}
+
+.beeel:hover {
+    background-color: #003366; 
+}
